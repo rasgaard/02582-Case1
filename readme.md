@@ -1,10 +1,10 @@
-# Case 1 in 02582 Computational Data Analysis (E2022)
+# Case 1 in 02582 Computational Data Analysis (F2022)
 
 Something which I felt that I missed when doing this assignment was a point of reference as to what to do and not to do. My hope is that this will provide a sort of reference for someone in the future. 
 
 The report is available in `report.pdf` and the case description can be found in `Case for 02582 - Forecasting for airports.pdf`.
 
-While the model did not perform well we got a score of 90.75% for the assignment which itself accounts for 20% of the final grade when taking the course in E2022.
+While the model did not perform well we got a score of 90.75% for the assignment which itself accounts for 20% of the final grade when taking the course in F2022.
 
 ## Feedback on report from teaching assistant
 
